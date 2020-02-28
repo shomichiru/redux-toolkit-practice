@@ -2,10 +2,10 @@
 
 This is just example code for redux-toolkit study.  
 
-- expo 36.0.0
-- @reduxjs/toolkit 1.2.5
+- expo 36.0.0  
+- @reduxjs/toolkit 1.2.5  
 
-> Reference  
+> Reference   
 
 https://react-redux.js.org/  
 https://redux-toolkit.js.org/tutorials/basic-tutorial  
